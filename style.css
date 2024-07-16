@@ -1,0 +1,229 @@
+
+
+
+
+
+  .googlefont{
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    
+    font-style: normal;
+  }
+
+
+
+
+.body-section{
+    background-image: url(./assets/Hero-bg.png);
+    background-size: 100% 100%;
+
+}
+
+
+
+.body-second-section{
+    margin: auto;
+    height: 500px;
+}
+
+.body-section{
+    text-align: center;
+    padding: 5% 25%;
+}
+.body-second-section h1{
+    font-size: 45px;
+    font-weight: 700;
+}
+.body-second-section button{
+    font-size: 16px;
+    font-weight: 700;
+    padding: 15px 25px;
+    border: none;
+    color:white;
+    background-color: black;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+
+
+.secondsection{
+    margin: auto;
+    
+}
+
+.secondsectiondiv{
+        margin: 2% 20%;
+        background-color: rgb(255, 253, 253);
+}
+
+.headertitle{
+    text-align: center;
+}
+
+.image1st{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3%;
+    background-color: rgb(251, 251, 252);
+}
+
+.image1sttext{
+    padding-top: 40px;
+}
+.image1sttext button{
+    font-size: 16px;
+    font-weight: 700;
+    padding: 15px 25px;
+    
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.image2st{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3%;
+    background-color: rgb(251, 251, 252);
+}
+
+.thirddiv{
+    padding: 2% 5%;
+}
+
+
+.videosection{
+    margin-top: 2%;
+    text-align: center;
+}
+
+.videosection h1{
+   font-weight: 700;
+}
+.video-section-sec{
+    text-align: center;
+    padding: 0% 25%;
+}
+
+
+.videodiv iframe{
+    padding: 25px;
+    background-color: rgb(252, 252, 252);
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+
+.videodiv{
+    margin-top: 2%;
+}
+
+
+
+.cardsection{
+    margin-top: 6%;
+    
+    padding: 0% 20%;
+}
+.cardsection h1{
+    font-weight: 700;
+}
+
+.carddiv{
+    
+    width: 300px;
+    
+    padding: 30px 30px;
+    border-radius: 15px;
+    
+}
+.carddiv a{
+    color: black;
+    font-size: 18px;
+    font-weight: 700;
+    
+}
+
+.textheraeder{
+    text-align: center;
+}
+.allcard{
+    display: flex;
+    gap: 15px;
+    padding-top: 25px;
+}
+
+.htmlcard{
+    background-color: rgb(184, 205, 223);
+}
+
+.csscard{
+    background-color: rgb(208, 210, 211);
+}
+
+.jscard{
+    background-color: rgb(179, 182, 185);
+}
+
+
+.footerdiv{
+    margin-top: 6%;
+    
+    padding: 0% 20%;
+}
+
+.footerimagediv{
+    background-image: url(./assets/handshake.jpg);
+    height: 200px;
+    border-radius: 15px;
+    background-position: center;
+    
+    background-size: cover;
+    text-align: center;
+    color: white;
+    padding-top: 30px;
+}
+.footerimagediv input{
+    
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    width: 400px;
+}
+
+
+.footerimagediv button{
+    
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    font-weight: 700;
+    
+}
+
+.superall{
+    background-color: rgb(245, 246, 247);
+    margin-top: 60px;
+    
+}
+.allpng{
+    display: flex;
+    padding: 10px 100px;
+    justify-content: space-between;
+
+}
+
+.imgdiv{
+    padding-top: 10px;
+}
+.imgdiv img{
+    padding: 0px 10px;
+}
+
+
+
+
+
+
+
+
+
